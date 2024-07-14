@@ -1,0 +1,13 @@
+Below is some text taken from [TITLE]. Your job has two steps. First, generate a bullet-point list of key information within the article, making sure to extract important statistics. Next, summarize the article in one paragraph. The format of your response should look like the following.
+
+Bullet Point Summary
+- Bullet Point 1
+- Bullet Point 2
+- Bullet Point 3
+- Bullet Point n
+
+Summary
+[summary of article in one paragraph]
+
+Below is the content from the article.
+[CONTENT]

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.1",
+    "express": "^4.19.2"
+  }
+}

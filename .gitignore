@@ -1,0 +1,9 @@
+.venv
+__pycache__
+node_modules
+certificate.py
+google_news_articles.csv
+scrape_old.py
+test.py
+urls.csv
+

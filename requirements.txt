@@ -1,0 +1,11 @@
+flask
+google-generativeai
+langchain-google-genai
+readability-lxml
+lxml_html_clean
+beautifulsoup4
+sentence-transformers
+numpy
+GoogleNews
+pandas
+certifi
